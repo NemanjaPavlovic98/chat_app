@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Domen\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Domen\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Domen\obj\Debug\Domen.dll
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Domen\obj\Debug\Domen.pdb

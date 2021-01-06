@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Server\bin\Debug\Server.exe.config
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Server\bin\Debug\Server.exe
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Server\bin\Debug\Server.pdb
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Server\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Server\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Server\obj\Debug\Server.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Server\obj\Debug\Server.FrmServer.resources
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Server\obj\Debug\Server.Properties.Resources.resources
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Server\obj\Debug\Server.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Server\obj\Debug\Server.csproj.CopyComplete
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Server\obj\Debug\Server.exe
+\\Mac\Home\Desktop\Softveri\VezbanjeChata\Server\obj\Debug\Server.pdb
